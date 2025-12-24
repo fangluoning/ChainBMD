@@ -336,5 +336,5 @@ Features:
 - Left: read HDF5 rows by index (if no subject_id, uses `sample_xxxx`), plot EMG and insole/joint curves with gray grid and Times font.
 - Center: node contribution summary, LLM coaching feedback/chat, AI coach button (triggers LLM).
 - Upper right: 2.5 s skeleton animation (auto-play by default, can pause), driven by skeleton HDF5.
-- Lower right: local LLM chat panel, supports CN/EN input, auto-cleans `<think>` and `**` markers.
+- Lower right: local LLM chat panel, supports CN/EN input.
 - Language is toggled in settings (`language=en/cn`), and button/status text follows.
