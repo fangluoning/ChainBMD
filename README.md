@@ -252,8 +252,6 @@ By default, only samples with `pred_before != target_skill` are counted. Add `--
 
 | Script | Purpose |
 |------|------|
-| Script | Purpose |
-|------|------|
 | `script/visualize_explanations.py` | Seven-node time series (gray grid, Times font, optional event markers). |
 | `script/visualize_heatmap.py` | Node-by-time heatmap to locate high-importance windows. |
 | `script/visualize_radar.py` | Node contribution radar chart to compare samples. |
